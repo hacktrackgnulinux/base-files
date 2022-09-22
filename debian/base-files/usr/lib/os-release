@@ -1,0 +1,9 @@
+PRETTY_NAME="HackTrack GNU/Linux 2022.1 (return)"
+NAME="HackTrack GNU/Linux"
+VERSION_ID="2022.1"
+VERSION="2022.1 (return)"
+VERSION_CODENAME=return
+ID=hacktrack
+HOME_URL="https://www.hacktracklinux.org/"
+SUPPORT_URL="https://www.hacktracklinux.org/"
+BUG_REPORT_URL="https://www.hacktracklinux.org/"
