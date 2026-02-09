@@ -1,13 +1,13 @@
 Package: base-files
-Version: 2022.1
-Architecture: i386
+Version: 13.9+hacktrack1
+Architecture: all
 Essential: yes
-Maintainer: Dindin Hernawan <dindin_hernawan@yahoo.com>
-Installed-Size: 340
+Maintainer: Santiago Vila <sanvila@debian.org>
+Installed-Size: 349
 Pre-Depends: awk
 Breaks: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
 Replaces: base, dpkg (<= 1.15.0), miscutils
-Provides: base
+Provides: base, usr-is-merged
 Section: admin
 Priority: required
 Multi-Arch: foreign
